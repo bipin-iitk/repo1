@@ -1,7 +1,0 @@
-## this is a markdown file
-
--I am sharing file on github
-
--[link](www.google.com)
-
-# there is some mistake. please correct it
